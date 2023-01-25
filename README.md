@@ -133,7 +133,7 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
     ```javascript
     // Website related settings
     const settings = {
-      isSplash: true,
+      isSplash: False,
     };
     ```
   - Change `isSplash` from `true` to `false`
