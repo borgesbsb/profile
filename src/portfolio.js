@@ -94,35 +94,41 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
           style: {
-            backgroundColor: "transparent",
+            color: "#1572B6",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
           style: {
-            backgroundColor: "white",
-            color: "#D00000",
+            color: "#E34F26",
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
           style: {
-            backgroundColor: "transparent",
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
           style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
+            color: "#61DAFB",
           },
         },
+        /* {
+          skillName: "Flutter",
+          fontAwesomeClassname: "simple-icons:flutter",
+          style: {
+            color: "#02569B",
+          },
+        }, */
       ],
     },
     {
@@ -130,7 +136,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: ["⚡ Creating application backend in Python, NodeJs and Java "],
       softwareSkills: [
-        {
+        /*  {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
           style: {
@@ -150,53 +156,40 @@ const skills = {
           style: {
             color: "#CC6699",
           },
-        },
+        }, */
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
           style: {
-            color: "#61DAFB",
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Spring",
+          fontAwesomeClassname: "simple-icons:spring",
           style: {
             color: "#CB3837",
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
           style: {
             color: "#02569B",
           },
@@ -209,7 +202,6 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
@@ -271,7 +263,7 @@ const skills = {
         },
       ],
     },
-    {
+    /* {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
@@ -309,7 +301,7 @@ const skills = {
           },
         },
       ],
-    },
+    } */
   ],
 };
 
