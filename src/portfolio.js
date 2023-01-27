@@ -12,7 +12,7 @@ const seo = {
   og: {
     title: "Benjamin Borges",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://github.com/benjamin-borges",
   },
 };
 
@@ -22,8 +22,8 @@ const greeting = {
   logo_name: "Benjamin Borges",
   nickname: "borgesbsb",
   subTitle: "FullStack Web Developer",
-  resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+  // resumeLink:
+  // "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/borgesbsb",
   githubProfile: "https://github.com/borgesbsb",
 };
